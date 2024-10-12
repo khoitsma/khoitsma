@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Structural engineer, Python programmer
+P.E. licensed in Texas and Louisiana
+Website: [mathpax.com](https://www.mathpax.com/)
